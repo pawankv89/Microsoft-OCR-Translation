@@ -25,8 +25,6 @@ https://github.com/pawankv89/Microsoft-OCR-Translation.git
 
 ## YouTube Video Link: 
 https://youtu.be/IOo9ox9l-ww
-###
-https://github.com/pawankv89/Microsoft-OCR-Translation/tree/master/video/microsoft-ocr-translation.m4v
 
 ## Screen Shots Link:
 https://github.com/pawankv89/Microsoft-OCR-Translation/tree/master/images
